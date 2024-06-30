@@ -1,0 +1,4 @@
+boto3
+opensearch-py
+PyMuPDF
+requests-aws4auth
